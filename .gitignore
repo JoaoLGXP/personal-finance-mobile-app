@@ -1,0 +1,43 @@
+# Arquivos e pastas do Node.js
+node_modules/
+
+# Arquivos de log
+*.log
+*.txt
+
+# Arquivos de build e pacotes
+dist/
+build/
+*.apk
+*.aab
+
+# Configurações do Expo
+.expo/
+.eas/
+eas.json
+credentials.json
+
+# Arquivos temporários
+tmp/
+temp/
+*.tmp
+
+# Sistema de arquivos
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente
+.env
+.env.*
+!/.env.example
+
+# Ignorar arquivos gerados pelo sistema operacional
+**/__pycache__/
+**/*.pyc
+
+# Dependências do Visual Studio Code
+.vscode/
+
+# Adicionais
+yarn-error.log
+```
