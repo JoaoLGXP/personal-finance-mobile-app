@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "main": "App.js",
   "files": [
-    "src",
+    "src/",
     "App.js",
     "app.json",
-    "eas.json",
-    "package-lock.json"
+    "eas.json"
   ],
   "scripts": {
     "start": "expo start",
