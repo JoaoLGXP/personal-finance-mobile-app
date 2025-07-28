@@ -14,7 +14,6 @@ build/
 # Configurações do Expo
 .expo/
 .eas/
-eas.json
 credentials.json
 
 # Arquivos temporários
