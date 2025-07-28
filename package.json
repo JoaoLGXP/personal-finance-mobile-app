@@ -32,10 +32,5 @@
     "@babel/core": "^7.20.0",
     "eas-cli": "^5.9.1"
   },
-  "private": true,
-  "overrides": {
-    "expo-modules-autolinking": "~1.11.0",
-    "@expo/config-plugins": "~8.0.0",
-    "@expo/prebuild-config": "~7.0.0"
-  }
+  "private": true
 }
